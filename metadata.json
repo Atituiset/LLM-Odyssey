@@ -1,0 +1,6 @@
+{
+  "name": "LLM Odyssey: Inner Workings",
+  "description": "A cinematic, interactive technical walkthrough of Large Language Model architecture inspired by DeepSeek's expert mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Visualization", "Cinematic Transitions"]
+}
